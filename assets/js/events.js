@@ -19,7 +19,7 @@ var EVENTS = [
   {
     title:       "Sunday Worship",
     date:        "2026-12-06",
-    time:        "[Service time]",
+    time:        "10:00 AM",
     location:    "Main Sanctuary",
     description: "Join us for worship, teaching from Scripture, and coffee together afterward. Everyone is welcome.",
     image:       "assets/img/placeholder-worship.svg",
