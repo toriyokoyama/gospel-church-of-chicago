@@ -21,14 +21,14 @@ var SITE = {
   tagline:        "A warm, Christ-centered church in Des Plaines, Illinois.",
 
   /* --- Sunday worship -------------------------------------------------- */
-  serviceTime:    "[Sunday service time]",
-  serviceTimeKo:  "[주일 예배 시간]",
+  serviceTime:    "10:00 AM",
+  serviceTimeKo:  "오전 10시",
 
   /* --- Where to find us ------------------------------------------------ */
-  addressLine1:   "[Street address]",
-  addressLine2:   "Des Plaines, IL [ZIP]",
-  phone:          "[(000) 000-0000]",
-  email:          "[info@gospelchurch1.com]",
+  addressLine1:   "1250 E. Golf Road",
+  addressLine2:   "Des Plaines, IL 60016",
+  phone:          "(847) 803-9191",
+  email:          "onenesschurch1250@gmail.com",
 
   /* --- Links ----------------------------------------------------------- */
 
